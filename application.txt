@@ -1,9 +1,0 @@
-`apps test file
-feature branch edited now.
-
-pull first.
-
-push second.
-third
-
-pushing.
